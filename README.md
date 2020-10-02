@@ -1,4 +1,4 @@
-# amongus
+# Amongus
 
 A new Flutter application.
 
