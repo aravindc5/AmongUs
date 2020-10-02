@@ -8,12 +8,15 @@ The Impostor can use sabotage to cause chaos, making for easier kills and better
 
 
 ## Concept Used:
-1.Stack
-2.Animation Controller
-3.Transform 
+1.Stack<br>
+2.Animation Controller<br>
+3.Transform<br>
 
 
 ## Output:
+
+
+
 
 ## Getting Started
 
