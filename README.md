@@ -1,4 +1,4 @@
-# Amongus
+# Among Us
 
 Among us is an multiplayer game where you attempt to prep your spaceship for departure, but beware as one will be an impostor bent on killing everyone!
 
@@ -14,6 +14,9 @@ The Impostor can use sabotage to cause chaos, making for easier kills and better
 
 
 ## Output:
+
+![Screenshot_2020-10-02-21-52-55-450_com arvi amongus](https://user-images.githubusercontent.com/30715919/94946458-ce555a00-04f9-11eb-99d1-3fbe5b71cf8d.jpg)
+![Screenshot_2020-10-02-21-53-00-288_com arvi amongus](https://user-images.githubusercontent.com/30715919/94946464-d1e8e100-04f9-11eb-855a-ef70e3de749e.jpg)
 
 
 
