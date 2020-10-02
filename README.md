@@ -1,6 +1,19 @@
 # Amongus
 
-A new Flutter application.
+Among us is an multiplayer game where you attempt to prep your spaceship for departure, but beware as one will be an impostor bent on killing everyone!
+
+Crewmates can win by completing all tasks or discovering and voting the impostor off the ship.
+
+The Impostor can use sabotage to cause chaos, making for easier kills and better alibis.
+
+
+## Concept Used:
+1.Stack
+2.Animation Controller
+3.Transform 
+
+
+## Output:
 
 ## Getting Started
 
