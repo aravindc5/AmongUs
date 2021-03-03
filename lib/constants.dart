@@ -45,15 +45,6 @@ List<String> names = [
 List<String> result = [
   'is An Imposter',
   'is not An Imposter',
-  'is An Imposter',
-  'is not An Imposter',
-  'is An Imposter',
-  'is not An Imposter',
-  'is An Imposter',
-  'is not An Imposter',
-  'is An Imposter',
-  'is not An Imposter',
-  'is An Imposter',
 ];
 
 List<int> wins = [10, 12, 14, 8, 4, 2, 9, 11, 7, 10, 13];

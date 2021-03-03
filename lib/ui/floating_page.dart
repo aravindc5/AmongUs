@@ -45,7 +45,22 @@ class _FloatingPageState extends State<FloatingPage>
   Widget build(BuildContext context) {
     final int args = ModalRoute.of(context).settings.arguments;
     String charName = names[args];
-    String charRes = result[args];
+    String imposterText = result[0];
+    String notImposterText = result[1];
+    Random rnd = new Random();
+    int min = 0, max = 12;
+    int r = min + rnd.nextInt(max - min);
+    print(args);
+    print(r);
+
+    String resString = args == r ||
+            args + 1 == r ||
+            args - 1 == r ||
+            args + 2 == r ||
+            args - 2 == r
+        ? imposterText
+        : notImposterText;
+    String characterName = names[args];
     return Scaffold(
       body: Container(
         decoration: BoxDecoration(
@@ -82,7 +97,7 @@ class _FloatingPageState extends State<FloatingPage>
                           onTap: () {
                             print("Tap Event");
                           },
-                          text: ['$charName $charRes'],
+                          text: [characterName + " " + resString],
                           textStyle: TextStyle(
                               color: Colors.white,
                               fontSize: 20.0,
